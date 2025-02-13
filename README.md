@@ -1,16 +1,27 @@
-## Hi there 👋
+🚀 Akib Ashfaq - Software Developer
+👋 Hey there! I'm Akib Ashfaq, a passionate and dedicated software developer currently pursuing a degree in Computer Science 🎓. I love solving complex problems 🧩 and continuously improving my coding skills by working on real-world projects 💻 and competitive programming challenges 🏆.
 
-<!--
-**AkibAshfaq/AkibAshfaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Skills
+🔹 Languages 🖥️
+🔷 C# - Windows Forms, OOP, Desktop App Development 🏗️
+🔶 C++ - Competitive Programming, Algorithms, Data Structures 🏆
+🟢 Java - Object-Oriented Programming, Java Tools ☕
+🔴 C - System-Level Programming, Memory Management 💾
+🟡 Python - Learning Data Analysis, Web Development, Automation 🐍
 
-Here are some ideas to get you started:
+🔹 Technologies & Tools 🛠️
+⚡ .NET, WinForms, Java SE, STL
+⚡ Git, Visual Studio, IntelliJ IDEA, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+💡 Currently specializing in C++ for problem-solving and C# for building Windows applications 🏗️. I'm expanding my expertise in Java & Python to explore backend and data-driven applications 📊. I enjoy collaborating on open-source projects 🌍, competing in coding competitions 🏆, and continuously learning new technologies 🚀.
+
+🔭 Currently working on: Improving my Java & Python skills 🚀
+🌱 Exploring: Software Architecture & Cloud Computing ☁️
+🏆 Active in: Coding Challenges & Hackathons ⚔️
+🎓 Pursuing: Bachelor's in Computer Science 🏫
+
+📫 Let's Connect 🔗
+👉 GitHub 🌍
+
+Thank you for stopping by my GitHub profile! Feel free to explore my projects and contributions 🚀💻.
