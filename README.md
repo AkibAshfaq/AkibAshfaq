@@ -1,13 +1,13 @@
-🚀 Akib Ashfaq - Software Developer
-👋 Hey there! I'm Akib Ashfaq, a passionate and dedicated software developer currently pursuing a degree in Computer Science 🎓. I love solving complex problems 🧩 and continuously improving my coding skills by working on real-world projects 💻 and competitive programming challenges 🏆.
+#🚀 Akib Ashfaq - Software Developer
+###👋 Hey there! I'm Akib Ashfaq, a passionate and dedicated software developer currently pursuing a degree in Computer Science 🎓. I love solving complex problems 🧩 and continuously improving my coding skills ###by working on real-world projects 💻 and competitive programming challenges 🏆.
 
-💼 Skills
-🔹 Languages 🖥️
-🔷 C# - Windows Forms, OOP, Desktop App Development 🏗️
-🔶 C++ - Competitive Programming, Algorithms, Data Structures 🏆
-🟢 Java - Object-Oriented Programming, Java Tools ☕
-🔴 C - System-Level Programming, Memory Management 💾
-🟡 Python - Learning Data Analysis, Web Development, Automation 🐍<br/>
+##💼 Skills
+###🔹 Languages 🖥️
+###🔷 C# - Windows Forms, OOP, Desktop App Development 🏗️
+###🔶 C++ - Competitive Programming, Algorithms, Data Structures 🏆
+###🟢 Java - Object-Oriented Programming, Java Tools ☕
+###🔴 C - System-Level Programming, Memory Management 💾
+###🟡 Python - Learning Data Analysis, Web Development, Automation 🐍<br/>
 
 🔹 Technologies & Tools 🛠️
 ⚡ .NET, WinForms, Java SE, STL
