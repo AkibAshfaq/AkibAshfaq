@@ -33,7 +33,7 @@
 
 🔭 **Currently working on:** Improving my **Java & Python** skills 🚀  
 🌱 **Exploring:** Software Architecture & Cloud Computing ☁️  
-🏆 **Active in:** Coding Challenges & Hackathons ⚔️  
+🏆 **Active in:** Exploring new knowledge ⚔️  
 🎓 **Pursuing:** Bachelor's in **Computer Science** 🏫  
 
 ---
