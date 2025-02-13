@@ -15,7 +15,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
 </p>
 
-
+### 💡 Programming Proficiency
+🖥️ **C#** - Windows Forms, OOP, Desktop App Development  
+⚡ **C++** - Competitive Programming, Algorithms, Data Structures  
+☕ **Java** - Object-Oriented Programming, Java Tools  
+💾 **C** - System-Level Programming, Memory Management  
+🐍 **Python** - Learning Data Analysis, Web Development, Automation  
 
 ### 🔹 **Technologies & Tools**  
 ⚡ **.NET, WinForms, Java SE, STL**  
