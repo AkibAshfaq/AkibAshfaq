@@ -7,21 +7,21 @@
 🔶 C++ - Competitive Programming, Algorithms, Data Structures 🏆
 🟢 Java - Object-Oriented Programming, Java Tools ☕
 🔴 C - System-Level Programming, Memory Management 💾
-🟡 Python - Learning Data Analysis, Web Development, Automation 🐍
+🟡 Python - Learning Data Analysis, Web Development, Automation 🐍<br/>
 
 🔹 Technologies & Tools 🛠️
 ⚡ .NET, WinForms, Java SE, STL
 ⚡ Git, Visual Studio, IntelliJ IDEA, Linux
 
 🚀 About Me
-💡 Currently specializing in C++ for problem-solving and C# for building Windows applications 🏗️. I'm expanding my expertise in Java & Python to explore backend and data-driven applications 📊. I enjoy collaborating on open-source projects 🌍, competing in coding competitions 🏆, and continuously learning new technologies 🚀.
+💡 Currently specializing in C++ for problem-solving and C# for building Windows applications 🏗️. I'm expanding my expertise in Java & Python to explore backend and data-driven applications 📊. I enjoy collaborating on open-source projects 🌍, competing in coding competitions 🏆, and continuously learning new technologies 🚀.<br/>
 
 🔭 Currently working on: Improving my Java & Python skills 🚀
 🌱 Exploring: Software Architecture & Cloud Computing ☁️
 🏆 Active in: Coding Challenges & Hackathons ⚔️
-🎓 Pursuing: Bachelor's in Computer Science 🏫
+🎓 Pursuing: Bachelor's in Computer Science 🏫<br/>
 
-📫 Let's Connect 🔗
+📫 Let's Connect 🔗<br/>
 👉 GitHub 🌍
 
 Thank you for stopping by my GitHub profile! Feel free to explore my projects and contributions 🚀💻.
