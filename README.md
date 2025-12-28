@@ -4,6 +4,47 @@
 
 ---
 
+### 📊 Coding Activity & Competitive Programming
+
+**Coding Activity (WakaTime)**
+<p align="left">
+  <a href="https://wakatime.com/@1e5a6c61-a59c-4832-9015-d72c385f4c05"><img src="https://wakatime.com/badge/user/1e5a6c61-a59c-4832-9015-d72c385f4c05.svg" alt="Total time coded since Feb 13 2025" /></a>
+  </a>
+</p>
+
+**Competitive Programming**
+<p align="left">
+  <a href="https://codeforces.com/profile/AkibAshfaq">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/AkibAshfaq">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" alt="LeetCode"/>
+  </a>
+</p>
+
+**Focus Areas**
+- Data Structures & Algorithms
+- Problem Solving & Logical Thinking
+- Competitive Programming (Beginner–Intermediate)
+- Consistent Coding Practice
+
+### 📂 GitHub Stats
+
+
+
+<!-- # Test GitHub Stats
+
+### GitHub Stats
+![GitHub repo count](https://img.shields.io/github/repos/akibashfaq?style=flat-square)
+
+
+**Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkibAshfaq&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
+</p> -->
+
+---
+
 ## Skills
 
 ### 🖥️ Desktop Application Development
