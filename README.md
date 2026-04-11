@@ -1,7 +1,34 @@
 # 🚀 Akib Ashfaq | Software Developer  
 
 👋 Hi there! I'm **Akib Ashfaq**, a passionate **Software Developer** and a Computer Science student 🎓.  
-I enjoy solving complex problems, building real-world applications, and continuously improving my skills through **competitive programming** and **project development**.  
+I enjoy solving complex problems, building real-world applications, and improving my skills through **competitive programming** and **project development**.  
+
+---
+
+## 📊 Coding Activity & Stats  
+
+### ⏱️ WakaTime (Coding Activity)
+<p align="left">
+  <a href="https://wakatime.com/@1e5a6c61-a59c-4832-9015-d72c385f4c05">
+    <img src="https://wakatime.com/badge/user/1e5a6c61-a59c-4832-9015-d72c385f4c05.svg" />
+  </a>
+</p>
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkibAshfaq&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkibAshfaq&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkibAshfaq&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkibAshfaq&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
@@ -40,15 +67,7 @@ Git • GitHub • Visual Studio • VS Code • Postman • SSMS • Android St
 
 - 🔹 Regular problem solving on **Codeforces & LeetCode**  
 - 🔹 Focus on **Data Structures & Algorithms**  
-- 🔹 Consistent coding practice and improvement  
-
----
-
-## 📈 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkibAshfaq&theme=react-dark&hide_border=true&area=true" />
-</p>
+- 🔹 Consistent coding practice  
 
 ---
 
