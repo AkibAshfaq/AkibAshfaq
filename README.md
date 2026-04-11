@@ -7,7 +7,7 @@ I enjoy solving complex problems, building real-world applications, and improvin
 
 ## 📊 Coding Activity & Stats  
 
-### ⏱️ WakaTime (Coding Activity)
+### ⏱️ WakaTime
 <p align="left">
   <a href="https://wakatime.com/@1e5a6c61-a59c-4832-9015-d72c385f4c05">
     <img src="https://wakatime.com/badge/user/1e5a6c61-a59c-4832-9015-d72c385f4c05.svg" />
@@ -16,18 +16,22 @@ I enjoy solving complex problems, building real-world applications, and improvin
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkibAshfaq&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkibAshfaq&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkibAshfaq&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
-### 📊 Top Languages
+### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkibAshfaq&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AkibAshfaq&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🏆 Achievements
+### 📊 Top Languages (FIXED ✅)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkibAshfaq&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkibAshfaq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+### 🏆 Achievements (FIXED ✅)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkibAshfaq&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
