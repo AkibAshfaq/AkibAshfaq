@@ -38,19 +38,18 @@ I am **Akib Ashfaq**, a Computer Science student and aspiring Software Developer
 
 ---
 
-### 🧠 LeetCode Profile  
+### 🏆 Competitive Programming  
+
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://leetcard.jacoblin.cool/AkibAshfaq?theme=dark&font=baloo&ext=contest" />
+  <a href="https://codeforces.com/profile/AkibAshfaq">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
----
-
-### 🏆 Codeforces Profile  
-
 <p align="center">
-  <img src="https://cf.leed.at/api?username=AkibAshfaq" />
+  <a href="https://leetcode.com/AkibAshfaq">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
