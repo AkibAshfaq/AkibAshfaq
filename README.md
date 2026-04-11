@@ -47,11 +47,11 @@ I am **Akib Ashfaq**, a Computer Science student and aspiring Software Developer
 
 ---
 
-### 🏆 Codeforces Statistics  
+### 🏆 Codeforces Profile  
 
 <p align="center">
   <a href="https://codeforces.com/profile/AkibAshfaq">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AkibAshfaq" />
+    <img src="https://img.shields.io/badge/Codeforces-Visit%20Profile-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
