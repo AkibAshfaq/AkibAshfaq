@@ -22,24 +22,24 @@ I am **Akib Ashfaq**, a Computer Science student and aspiring Software Developer
 ## Coding Profiles & Statistics  
 
 ### GitHub Statistics  
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AkibAshfaq&show_icons=true&theme=tokyonight" />
 </p>
 
 ### Contribution Streak  
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=AkibAshfaq&theme=tokyonight" />
 </p>
 
 ### Most Used Languages  
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AkibAshfaq&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🧠 LeetCode Profile  
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/">
     <img src="https://leetcard.jacoblin.cool/AkibAshfaq?theme=dark&font=baloo&ext=contest" />
   </a>
@@ -48,7 +48,7 @@ I am **Akib Ashfaq**, a Computer Science student and aspiring Software Developer
 ---
 
 ### 🏆 Codeforces Profile  
-<p align="center">
+<p align="left">
   <a href="https://codeforces.com/profile/AkibAshfaq">
     <img src="https://img.shields.io/badge/Codeforces-Profile-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
