@@ -12,23 +12,14 @@
 
 I am **Akib Ashfaq**, a Computer Science student and aspiring Software Developer with a strong interest in software engineering, problem-solving, and system design.
 
-My focus areas include backend development, data structures and algorithms, and building scalable applications using modern technologies.
-
 - Strong interest in Data Structures and Algorithms  
 - Experience in .NET-based application development  
-- Active practice on competitive programming platforms  
-- Currently expanding knowledge in system design and cloud technologies  
+- Active on competitive programming platforms  
+- Focused on backend development and scalable systems  
 
 ---
 
-## Coding Activity & Statistics  
-
-### WakaTime  
-<p align="left">
-  <a href="https://wakatime.com/@1e5a6c61-a59c-4832-9015-d72c385f4c05">
-    <img src="https://wakatime.com/badge/user/1e5a6c61-a59c-4832-9015-d72c385f4c05.svg" />
-  </a>
-</p>
+## Coding Profiles & Statistics  
 
 ### GitHub Statistics  
 <p align="center">
@@ -43,6 +34,22 @@ My focus areas include backend development, data structures and algorithms, and 
 ### Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AkibAshfaq&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 LeetCode Profile  
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://leetcard.jacoblin.cool/AkibAshfaq?theme=dark&font=baloo&ext=contest" />
+  </a>
+</p>
+
+---
+
+### 🏆 Codeforces Profile  
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AkibAshfaq&theme=dark" />
 </p>
 
 ---
@@ -65,33 +72,33 @@ Kotlin, Java, Flutter
 MySQL, Oracle, SQLite, Firebase  
 
 ### Tools & Technologies  
-Git, GitHub, Visual Studio, VS Code, Postman, SQL Server Management Studio, Android Studio, Linux  
+Git, GitHub, Visual Studio, VS Code, Postman, SQL Server, Android Studio, Linux  
 
 ---
 
 ## Competitive Programming  
 
-- Regular problem solving on Codeforces and LeetCode  
-- Strong understanding of Data Structures and Algorithms  
-- Consistent practice to improve problem-solving efficiency  
+- Active on LeetCode and Codeforces  
+- Strong foundation in Data Structures and Algorithms  
+- Focused on improving problem-solving speed and accuracy  
 
 ---
 
 ## Projects  
 
 ### Inventory Management System  
-- Developed using C# Windows Forms and SQL Server  
-- Implemented layered architecture  
-- Handles inventory tracking, sales, and reporting  
+- Built using C# Windows Forms and SQL Server  
+- Implements layered architecture  
+- Handles inventory, sales, and reporting  
 
 ### Shopping API  
-- Built using ASP.NET Core Web API  
-- RESTful architecture with CRUD operations  
-- Integrated with database for data management  
+- Developed using ASP.NET Core Web API  
+- RESTful CRUD operations  
+- Database integration for data management  
 
 ### Snake Game  
-- Developed using HTML, CSS, and JavaScript  
-- Includes game logic, collision detection, and scoring system  
+- Built using HTML, CSS, and JavaScript  
+- Includes collision detection and scoring system  
 
 ---
 
