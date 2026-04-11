@@ -45,7 +45,7 @@
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkibAshfaq&theme=tokyonight&margin-w=10" />
+  <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=AkibAshfaq&theme=onedark&no-frame=true&margin-w=15" />
 </p>
 
 ---
