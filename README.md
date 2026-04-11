@@ -175,12 +175,10 @@ I am **Akib Ashfaq**, a Computer Science student and aspiring Software Developer
   <a href="https://github.com/AkibAshfaq">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub
   </a>
-  &nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/akib-ashfaq-dev">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/> LinkedIn
   </a>
-  &nbsp;&nbsp;
 
   <a href="mailto:akibash.dev@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/> Email
