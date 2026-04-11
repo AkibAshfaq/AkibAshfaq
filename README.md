@@ -19,7 +19,14 @@ I am **Akib Ashfaq**, a Computer Science student and aspiring Software Developer
 
 ---
 
-## Coding Profiles & Statistics  
+## Coding Profiles & Statistics 
+
+### WakaTime  
+<p align="left">
+  <a href="https://wakatime.com/@1e5a6c61-a59c-4832-9015-d72c385f4c05">
+    <img src="https://wakatime.com/badge/user/1e5a6c61-a59c-4832-9015-d72c385f4c05.svg" />
+  </a>
+</p>
 
 ### GitHub Statistics  
 <p align="left">
