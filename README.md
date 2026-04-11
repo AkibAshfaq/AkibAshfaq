@@ -171,7 +171,7 @@ I am **Akib Ashfaq**, a Computer Science student and aspiring Software Developer
 ## Contact  
 
 - GitHub: github.com/AkibAshfaq  
-- LinkedIn: linkedin.com/in/akib-ashfaq-b42041351  
+- LinkedIn: linkedin.com/in/akib-ashfaq-dev
 - Email: akibash.dev@gmail.com  
 
 ---
