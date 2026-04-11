@@ -43,10 +43,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AkibAshfaq&layout=compact&theme=tokyonight" />
 </p>
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkibAshfaq" />
-</p>
 ---
 
 ## 🛠️ Tech Stack  
