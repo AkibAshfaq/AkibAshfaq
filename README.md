@@ -19,7 +19,7 @@
 
 Computer Science student at AIUB focused on backend development, software engineering principles, and competitive programming. I enjoy building structured, maintainable systems and continuously improving my problem-solving skills.
 
-**Current focus:** Backend API design · System design · Cloud computing fundamentals
+**Current focus:** Backend API design · System design
 
 ---
 
