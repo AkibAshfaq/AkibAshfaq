@@ -97,6 +97,7 @@ body{margin:0;min-height:100vh;background:var(--desk);color:var(--ink);font-fami
     Array.prototype.forEach.call(slides, function (s, i) { s.setAttribute('aria-hidden', i === cur ? 'false' : 'true'); });
     statusEl.textContent = 'page ' + (cur + 1) + ' of ' + N + ' · ' + NAMES[cur];
     fillLinks(cur);
+    try { history.replaceState(null, '', '#' + HASHES[cur]); } catch (e) {}
   }
   function fillLinks(i) {
     linksEl.innerHTML = '';
@@ -171,7 +172,15 @@ body{margin:0;min-height:100vh;background:var(--desk);color:var(--ink);font-fami
     go(cur + 1);
   }, 4500);
 
+  var HASHES = ["cover", "about", "skills", "tools", "projects", "games", "iot", "contact"];
+  try { var hi = HASHES.indexOf(location.hash.slice(1)); if (hi > 0) cur = hi; } catch (e) {}
+  track.classList.add('drag');
   render();
+  requestAnimationFrame(function () { requestAnimationFrame(function () { track.classList.remove('drag'); }); });
+  window.addEventListener('hashchange', function () {
+    var h = HASHES.indexOf(location.hash.slice(1));
+    if (h >= 0 && h !== cur) go(h);
+  });
   reserveLinks();
   var rt = null;
   window.addEventListener('resize', function () { clearTimeout(rt); rt = setTimeout(reserveLinks, 150); });
