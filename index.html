@@ -54,14 +54,17 @@ body{margin:0;min-height:100vh;background:var(--desk);color:var(--ink);font-fami
     <div class="controls">
       <button class="btn" id="prev" type="button" aria-label="Previous page">&larr; Prev</button>
       <div class="mid">
-        <div class="dots" id="dots"></div>
-        <p class="status" id="status" aria-live="polite"></p>
+        <div class="dots" id="dots"><button type="button" class="dot" data-i="0" aria-label="Go to page 1: Cover" aria-current="true"></button><button type="button" class="dot" data-i="1" aria-label="Go to page 2: About me" aria-current="false"></button><button type="button" class="dot" data-i="2" aria-label="Go to page 3: Technical skills" aria-current="false"></button><button type="button" class="dot" data-i="3" aria-label="Go to page 4: Data, cloud and tools" aria-current="false"></button><button type="button" class="dot" data-i="4" aria-label="Go to page 5: Main projects" aria-current="false"></button><button type="button" class="dot" data-i="5" aria-label="Go to page 6: Games" aria-current="false"></button><button type="button" class="dot" data-i="6" aria-label="Go to page 7: IoT and hardware" aria-current="false"></button><button type="button" class="dot" data-i="7" aria-label="Go to page 8: Contact" aria-current="false"></button></div>
+        <p class="status" id="status" aria-live="polite">page 1 of 8 · Cover</p>
         <button class="btn" id="pause" type="button" aria-pressed="false">Pause</button>
       </div>
       <button class="btn" id="next" type="button" aria-label="Next page">Next &rarr;</button>
     </div>
     <div class="links" id="links"></div>
     <p class="hint">Swipe or drag, use the arrow keys, or the dots. It holds still while you hover or touch it.</p>
+    <noscript><style>.viewport{overflow-x:auto;scroll-snap-type:x mandatory}.track>svg{scroll-snap-align:start}</style>
+    <p class="hint">Scripts are off in this preview, so scroll sideways to flip pages. All links are listed here.</p>
+    <div class="links"><a class="btn" href="https://github.com/AkibAshfaq/My_Portfolio">My Portfolio ↗</a><a class="btn" href="https://github.com/AkibAshfaq/AIUB-App">AIUB App ↗</a><a class="btn" href="https://github.com/AkibAshfaq/DeskShop">DeskShop ↗</a><a class="btn" href="https://github.com/AkibAshfaq/E-Commarce-Managment-Accountant-Portal">E-Commerce Portal ↗</a><a class="btn" href="https://github.com/AkibAshfaq/JAVA-STREAMING-PLATFORM">Java Streaming ↗</a><a class="btn" href="https://github.com/AkibAshfaq/Advanced-Programming-in-.NET">Advanced .NET ↗</a><a class="btn" href="https://akibashfaq.github.io/HTML-Calculator-With-JS/">Calculator demo ↗</a><a class="btn" href="https://github.com/AkibAshfaq/HTML-Calculator-With-JS">Calculator repo ↗</a><a class="btn" href="https://my-portfolio-brown-pi-38.vercel.app/games">Play the games ↗</a><a class="btn" href="https://github.com/AkibAshfaq/Esp32-WIFI-Board">ESP32 WiFi Board ↗</a><a class="btn" href="https://github.com/AkibAshfaq/SMART-AGRICULTURAL-AUTOMATION-SYSTEM">Smart Agricultural Automation ↗</a><a class="btn" href="https://github.com/AkibAshfaq/TUI-Based-Table-Tennis-Paddle">TUI Table Tennis Paddle ↗</a><a class="btn" href="mailto:akibash.dev@gmail.com">Email ↗</a><a class="btn" href="https://www.linkedin.com/in/akib-ashfaq-dev">LinkedIn ↗</a><a class="btn" href="https://github.com/AkibAshfaq">GitHub ↗</a><a class="btn" href="https://wakatime.com/@1e5a6c61-a59c-4832-9015-d72c385f4c05">WakaTime ↗</a></div></noscript>
   </section>
 </main>
 <script>
@@ -80,7 +83,7 @@ body{margin:0;min-height:100vh;background:var(--desk);color:var(--ink);font-fami
   var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   if (reduce) { userPaused = true; pauseBtn.textContent = 'Play'; pauseBtn.setAttribute('aria-pressed', 'true'); }
 
-  for (var i = 0; i < N; i++) {
+  for (var i = 0; !dotsEl.children.length && i < N; i++) {
     var d = document.createElement('button');
     d.type = 'button'; d.className = 'dot';
     d.setAttribute('aria-label', 'Go to page ' + (i + 1) + ': ' + NAMES[i]);
